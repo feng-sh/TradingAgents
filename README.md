@@ -51,6 +51,15 @@
 
 TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deploying specialized LLM-powered agents: from fundamental analysts, sentiment experts, and technical analysts, to trader, risk management team, the platform collaboratively evaluates market conditions and informs trading decisions. Moreover, these agents engage in dynamic discussions to pinpoint the optimal strategy.
 
+### 📚 Documentation for New Developers
+
+**日本語ドキュメント (Japanese Documentation):**
+- **[クイックスタート](docs/QUICKSTART.ja.md)** - 最速で動かす方法
+- **[オンボーディングガイド](docs/ONBOARDING.ja.md)** - プロジェクト全体の理解
+- **[開発者ガイド](docs/DEVELOPER_GUIDE.ja.md)** - 技術詳細と開発方法
+- **[アーキテクチャ](docs/ARCHITECTURE.ja.md)** - システム設計と図解
+- **[ドキュメント目次](docs/README.ja.md)** - すべてのドキュメント一覧
+
 <p align="center">
   <img src="assets/schema.png" style="width: 100%; height: auto;">
 </p>
